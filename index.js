@@ -1,3 +1,3 @@
-console.error("Help!")
-console.log('tst rerun')
-console.warn("fault ahead")
+console.error("Help!");
+console.log("Running test");
+console.warn("Mistake ahead");
